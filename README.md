@@ -19,4 +19,9 @@
 <img width="943" alt="filmish5" src="https://user-images.githubusercontent.com/77840111/174921987-97dd241a-b62d-4bf1-b9bb-1eb3b6b3b436.png">
 <br /><br /><br /><br /><br />
 <h2>Requirements</h2>
+<ul>python 3</ul>
 <ul>streamlit</ul>
+<ul>numpy</ul>
+<ul>pandas</ul>
+<ul>sklearn</ul>
+<ul>pickle</ul>
