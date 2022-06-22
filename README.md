@@ -6,3 +6,8 @@
 <h2> <b>Step -2. </b> Click 'show recommendation' button </h2>
 <img width="954" alt="filmish2" src="https://user-images.githubusercontent.com/77840111/174920947-c8ee6479-e143-49fb-9449-7ac793d12c3f.png">
 <h2> <b>Step -3. </b> You would get seven recommended movies  </h2>
+<br /> <br />
+<h2>There is another way to use the app</h2>
+<h3>You can use this app to get movie recommendation for your genre</h3>
+<h3>To do that Scroll down to the part given below</h3>
+<img width="948" alt="filmish3" src="https://user-images.githubusercontent.com/77840111/174921584-8a6df090-c36a-48f8-bc9e-67186ccdf6a2.png">
