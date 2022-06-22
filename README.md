@@ -15,3 +15,5 @@
 <h2> <b>Step -2. </b> Click the 'show movies' button </h2>
 <img width="957" alt="filmish4" src="https://user-images.githubusercontent.com/77840111/174921832-0472b65a-25fe-4a4e-865f-efe905946eeb.png">
 <h2> <b>Step -3. </b> Click the 'list of movies' button </h2>
+<h2> <b>Step -4. </b> And you will be redirected to the IMDB page for that genre </h2>
+<img width="943" alt="filmish5" src="https://user-images.githubusercontent.com/77840111/174921987-97dd241a-b62d-4bf1-b9bb-1eb3b6b3b436.png">
