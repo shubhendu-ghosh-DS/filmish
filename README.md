@@ -26,4 +26,5 @@
 <ul>sklearn</ul>
 <ul>pickle</ul>
 <br /><br /><br /><br /><br />
-<h3>the kaggle code for this project is [here](https://www.kaggle.com/code/shubhendughosh00/movie-recommendation)</h3>
+the kaggle code for this project is here 
+https://www.kaggle.com/code/shubhendughosh00/movie-recommendation
