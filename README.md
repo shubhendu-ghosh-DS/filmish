@@ -11,3 +11,7 @@
 <h3>You can use this app to get movie recommendation for your genre</h3>
 <h3>To do that Scroll down to the part given below</h3>
 <img width="948" alt="filmish3" src="https://user-images.githubusercontent.com/77840111/174921584-8a6df090-c36a-48f8-bc9e-67186ccdf6a2.png">
+<h2> <b>Step -1. </b> Enter or select a movie genre </h2>
+<h2> <b>Step -2. </b> Click the 'show movies' button </h2>
+<img width="957" alt="filmish4" src="https://user-images.githubusercontent.com/77840111/174921832-0472b65a-25fe-4a4e-865f-efe905946eeb.png">
+<h2> <b>Step -3. </b> Click the 'list of movies' button </h2>
